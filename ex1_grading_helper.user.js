@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name CMPT165 Exercise 1 Grading URL Rewrite Script
+// @name CMPT165 Exercise Grading URL Rewrite Script
 // @namespace https://courses.cs.sfu.ca/2017sp-cmpt-165-d1
 // @version 1.0
-// @description This script will rewrite the URL for EX1 grading
+// @description This script will rewrite the URL for grading
 // @author xiangbom
-// @include https://courses.cs.sfu.ca/2017sp-cmpt-165-d1/+e1/submission/exercise1html/*/get
+// @include https://courses.cs.sfu.ca/2017sp-cmpt-165-d1/*/submission/*/*/get
 // @grant none
 // ==/UserScript==
 
