@@ -10,4 +10,4 @@
 
 var links = document.getElementsByTagName("a");
 
-links[0].href = 'http://cmpt165.csil.sfu.ca:8000/check?url=' + links[0].href;
+links[0].href = 'http://cmpt165.csil.sfu.ca:8000/check?url=' + encodeURI(links[0].href);
